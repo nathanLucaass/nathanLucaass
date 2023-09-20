@@ -1,23 +1,21 @@
-### Hi there 👋
+# 📋 Olá!
 
-<!--
-**nathanLucaass/nathanLucaass** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📞 Contato
+- **Localização:** Campo Belo, MG
+- **E-mail:** nathanlucaass@outlook.com
+- **Telefone:** (35) 99180-3348
+- **LinkedIn:** [linkedin.com/in/nathanlucaass](https://www.linkedin.com/in/nathanlucaass/)
+- **GitHub:** [github.com/nathanLucaass](https://github.com/nathanLucaass)
 
-Here are some ideas to get you started:
+## 🎯 Objetivo Profissional
+Atuar como **Desenvolvedor Web Full Stack**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Principais Tecnologias
+- HTML | CSS | JavaScript | React.js | Node.js | Docker | Express | Redux | APIs REST | SQL
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+- **Desenhista de Produtos Gráficos Web** - UAITEC, 2016
+- **CS50: Introduction to Computer Science** - Harvard University, 2023
+
+## 🌐 Idiomas
+- **Inglês:** Intermediário
+- **Espanhol:** Avançado
