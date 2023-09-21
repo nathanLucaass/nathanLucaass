@@ -5,6 +5,7 @@
 ## 📞 Contato
 - **E-mail:** nathanlucaass@outlook.com
 - **Telefone:** (35) 99180-3348
+- **Linkedin:** https://www.linkedin.com/in/nathanlucaass/
 ## 🌐 Idiomas
 - **Inglês:** Intermediário
 - **Espanhol:** Avançado
